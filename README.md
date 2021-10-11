@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Estudando Full-Stack Development ...
-- 💬 Contate-me no email: cavalcantebruno76@gmail.com ...
+- 🎈 Estudando Full-Stack Development 
+- 💬 Contate-me no email: cavalcantebruno76@gmail.com
 
 <div align="center">
   <a href="https://github.com/Hubbleq">
