@@ -1,31 +1,21 @@
-<h2 align="left">Hi! My name is Bruno. Welcome to my github!</h2>
+# Bruno Cavlacante
 
-###
+Desenvolvedor Full Stack com foco em construir sistemas escaláveis e seguros.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hubbleq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hubbleq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Skills
 
-###
+* **Linguagens & Frameworks:** Python, FastAPI, SQLAlchemy, Pytorch, Pyspark, Pandas, HTML, CSS, Javascript, React
+* **Infra & Cloud:** Azure, Docker, CI/CD (GitHub Actions)
+* **Banco de Dados:** PostgreSQL, MySQL, SqlServer
+* **Ferramentas:** Git, Linux, Bash, Nginx
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e5/a7/21/e5a72171359dbbb90ceed053e5b5c3da.gif"  />
+## Stack
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,ts,react,docker,azure,postgres,mysql,git,githubactions,linux,bash" alt="Technology Icons" />
+  </a>
+</p>
 
 ###
 
